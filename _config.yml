@@ -20,6 +20,11 @@ paginate: 10
 # 
 # disqus:
 
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
+
 # Jekyll
 # ======
 exclude:
